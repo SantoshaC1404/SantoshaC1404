@@ -47,6 +47,16 @@
 - **Description**: Full-stack task management application with real-time updates
 - **Repository**: [View on GitHub](https://github.com/SantoshaC1404/project3)
 
+  ### 📇 Smart Contact Manager
+
+![Dashboard](assets/contact-dashboard.png)
+![Add Contact](assets/add-contact.png)
+
+- **Tech Stack**: Java, Spring Boot, ReactJS, MySQL
+- **Description**: Full-stack contact management system with secure authentication and REST APIs.
+- **Repository**: [View on GitHub](https://github.com/SantoshaC1404/your-repo)
+
+
 ---
 
 ## 📊 GitHub Statistics
