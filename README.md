@@ -1,22 +1,16 @@
-## Hi there 👋 I'm Santosh
+# Professional Profile
 
-<!--
-**SantoshaC1404/SantoshaC1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+Hello! I am a passionate software developer with a focus on building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
 
-Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Java** ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- **Spring Boot** ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+- **Python** ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **ReactJS** ![ReactJS Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## Contact
+
+Feel free to connect with me for collaboration or inquiries!
