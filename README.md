@@ -13,6 +13,7 @@
 - 💻 Full-stack capabilities with **ReactJS** for frontend  <!-- 🐍 Experienced in **Python** for scripting and automation -->
 - 🌱 Continuously learning new technologies
 - 📫 Reach me at: [santosha1404@gmail.com](mailto:santosha1404@gmail.com.com)
+- 📱 Phone: +91-7022590204
 
 ---
 
