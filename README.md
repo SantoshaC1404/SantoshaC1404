@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bc1d43fa-53fe-4214-ac6e-f4743117a1da" /># 🖐️ Hi, I'm Santosha! 👋
+# 🖐️ Hi, I'm Santosha! 👋
 
 <p align="center">
   <em>Full-Stack Developer | Java & Spring Boot Specialist | Python Enthusiast | React Developer</em>
