@@ -9,10 +9,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 Passionate about building scalable, robust applications
-- 🚀 Specialized in backend development with **Java & Spring Boot**
+- 🚀 Specialized in backend development with **Java, Spring Boot & Python**
 - 💻 Full-stack capabilities with **ReactJS** for frontend
-- 🐍 Experienced in **Python** for scripting and automation
-- 🧩 Love solving complex problems through clean code
+--- 🐍 Experienced in **Python** for scripting and automation
 - 🌱 Continuously learning new technologies
 - 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
