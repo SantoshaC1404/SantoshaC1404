@@ -1,3 +1,11 @@
+# 🖐️ Hi, I'm Santosha! 👋
+
+<p align="center">
+  <em>Full-Stack Developer | Java & Spring Boot Specialist | Python Enthusiast | React Developer</em>
+</p>
+
+---
+
 <div style="text-align:center;">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
