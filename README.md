@@ -1,4 +1,4 @@
-# 🖐️ Hi, I'm Santosha! 👋
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bc1d43fa-53fe-4214-ac6e-f4743117a1da" /># 🖐️ Hi, I'm Santosha! 👋
 
 <p align="center">
   <em>Full-Stack Developer | Java & Spring Boot Specialist | Python Enthusiast | React Developer</em>
@@ -10,10 +10,9 @@
 
 - 🔭 Passionate about building scalable, robust applications
 - 🚀 Specialized in backend development with **Java, Spring Boot & Python**
-- 💻 Full-stack capabilities with **ReactJS** for frontend
-<!-- 🐍 Experienced in **Python** for scripting and automation -->
+- 💻 Full-stack capabilities with **ReactJS** for frontend  <!-- 🐍 Experienced in **Python** for scripting and automation -->
 - 🌱 Continuously learning new technologies
-- 📫 Reach me at: [your-email@example.com](mailto:santosha1404@gmail.com.com)
+- 📫 Reach me at: [santosha1404@gmail.com](mailto:santosha1404@gmail.com.com)
 
 ---
 
@@ -60,13 +59,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/santosha-c/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <!-- <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:santosha1404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
