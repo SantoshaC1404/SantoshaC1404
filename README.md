@@ -17,6 +17,7 @@
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 <p align="center">
@@ -30,9 +31,13 @@
 
 ---
 
+
 ## 📄 Resume
 
 [Download Resume](Santosha_C_Resume.pdf)
+
+---
+
 
 ## 📌 Featured Projects
 
