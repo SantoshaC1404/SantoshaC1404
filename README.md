@@ -34,7 +34,7 @@
 
 ## 📄 Resume
 
-[Download Resume](https://github.com/SantoshaC1404/SantoshaC1404/blob/main/Santosha_C_Resume.pdf)
+[Download Resume](https://github.com/SantoshaC1404/SantoshaC1404/blob/main/Santosha_C_2023.pdf)
 
 ---
 
