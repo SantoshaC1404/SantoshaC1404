@@ -45,7 +45,7 @@
 
 ### 🌐 **Authentication App**
 - **Tech Stack**: Java, Spring Boot, Spring Security, JWT, MySQL, ReactJS
-- **Description**: Designed and implemented a production-ready authentication system using Spring Security and JWT for stateless authorization. Developed secure REST APIs with custom authentication filters and role-based access control. Integrated a React frontend with token-based session management and protected routing for enhanced security.
+- **Description**: Designed and implemented a production-ready authentication system using REST APIs, Spring Security and JWT for stateless authorization.
 - **Repository**: [View on GitHub](https://github.com/SantoshaC1404/auth-app)
 
 
