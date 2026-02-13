@@ -36,7 +36,7 @@
 
 [Download Resume](https://github.com/SantoshaC1404/SantoshaC1404/blob/main/Santosha_C_Resume.pdf)
 
-----
+---
 
 
 ## 📌 Featured Projects
@@ -69,7 +69,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical" />
 </p>
-
 
 
 ---
