@@ -1,7 +1,7 @@
 # 🖐️ Hi, I'm Santosha! 👋
 
 <p align="center">
-  <em>Full-Stack Developer | Java & Spring Boot Specialist | Python Enthusiast | React Developer</em>
+  <em>Full-Stack Developer | Java & Spring Boot Developer | Python Enthusiast</em>
 </p>
 
 ---
