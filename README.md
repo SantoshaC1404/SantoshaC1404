@@ -32,11 +32,6 @@
 
 ## 📌 Featured Projects
 
-### 🌐 **Task Management App**
-- **Tech Stack**: ReactJS, Spring Boot, MySQL
-- **Description**: Full-stack task management application with real-time updates
-- **Repository**: [View on GitHub](https://github.com/SantoshaC1404/project3)
-
 ### 📇 Smart Contact Manager
 - **Tech Stack**: Java, Spring Boot, ReactJS, MySQL
 - **Description**: Full-stack contact management system with secure authentication and REST APIs.
@@ -47,6 +42,11 @@
 - **Tech Stack**: Java, Spring Boot, MongoDB, ReactJS
 - **Description**: Real-time messaging app using WebSocket with persistent message storage.
 - **Repository**: [View on GitHub](https://github.com/SantoshaC1404/chat-app)
+
+### 🌐 **Authentication App**
+- **Tech Stack**: Java, Spring Boot, Spring Security, JWT, MySQL, ReactJS
+- **Description**: Designed and implemented a production-ready authentication system using Spring Security and JWT for stateless authorization. Developed secure REST APIs with custom authentication filters and role-based access control. Integrated a React frontend with token-based session management and protected routing for enhanced security.
+- **Repository**: [View on GitHub](https://github.com/SantoshaC1404/auth-app)
 
 
 ---
