@@ -32,16 +32,6 @@
 
 ## 📌 Featured Projects
 
-### 🚀 **E-Commerce Platform**
-- **Tech Stack**: Java, Spring Boot, MySQL, ReactJS, Git
-- **Description**: Full-stack e-commerce application with user authentication, product management, and payment integration
-- **Repository**: [View on GitHub](https://github.com/SantoshaC1404/project1)
-
-### 🤖 **Data Analysis Tool**
-- **Tech Stack**: Python, Flask, MySQL
-- **Description**: Python-based tool for data processing and visualization
-- **Repository**: [View on GitHub](https://github.com/SantoshaC1404/project2)
-
 ### 🌐 **Task Management App**
 - **Tech Stack**: ReactJS, Spring Boot, MySQL
 - **Description**: Full-stack task management application with real-time updates
@@ -63,9 +53,14 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SantoshaC1404&show_icons=true&theme=radical" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshaC1404&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=tokyonight" />
 </p>
+
 
 ---
 
