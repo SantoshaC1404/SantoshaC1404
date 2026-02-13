@@ -58,8 +58,7 @@
   <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=tokyonight" />
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantoshaC1404&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshaC1404&layout=compact&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical" />
 </p>
 
 
