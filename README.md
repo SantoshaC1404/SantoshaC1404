@@ -30,6 +30,10 @@
 
 ---
 
+## 📄 Resume
+
+[Download Resume](Santosha_C_Resume.pdf)
+
 ## 📌 Featured Projects
 
 ### 📇 Smart Contact Manager
