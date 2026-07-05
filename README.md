@@ -46,7 +46,7 @@
 ### 🖥️ IT Infrastructure Monitoring Dashboard
 - **Tech Stack**: Python, FastAPI, ReactJS, Docker, MySQL
 - **Description**: Real-time infrastructure monitoring dashboard for system performance tracking, resource utilization, and health status alerts with containerized deployment.
-- **Repository[Backend]**: [View on GitHub](https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard)
+- **Repository[Backend]**: [View on GitHub](https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend)
 - **Repository[Frontend]**: [View on GitHub](https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend)
 
 ### 📇 Smart Contact Manager
