@@ -124,7 +124,7 @@ Production-ready authentication and authorization system implementing JWT-based 
 </p>
 
 <p align="center">
-  <!-- <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical"/> -->
+  <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical"/>
 </p>
 
 <p align="center">
