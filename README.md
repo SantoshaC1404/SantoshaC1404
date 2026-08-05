@@ -102,8 +102,6 @@ Production-ready authentication and authorization system implementing JWT-based 
 
 -->
 
----
-
 # 🎯 Core Expertise
 
 * 🚀 **Backend Development**
