@@ -1,91 +1,142 @@
-# Santosha C
+# 👋 Hi, I'm **Santosha C**
 
 <p align="center">
-  <em>Full-Stack Engineer — Backend Specialist (Java, Spring Boot) • Python & FastAPI • React</em>
+  <strong>Full-Stack Software Engineer</strong><br>
+  <em>Backend Specialist • Java • Spring Boot • Python • FastAPI • React</em>
+</p>
+
+<p align="center">
+  <a href="mailto:santosha1404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-santosha1404%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santosha-c/">
+    <img src="https://img.shields.io/badge/LinkedIn-Santosha_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SantoshaC1404">
+    <img src="https://img.shields.io/badge/GitHub-SantoshaC1404-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/SantoshaC1404/SantoshaC1404/blob/main/Santosha_C.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I build reliable, scalable web applications and APIs with a focus on clean architecture, testability, and performance. I have strong experience in backend development using Java and Spring Boot, and build production-ready services using Python and FastAPI. I enjoy solving system design problems and shipping end-to-end features.
+I'm a **Full-Stack Software Engineer** passionate about building scalable, secure, and high-performance applications. My primary expertise lies in backend development using **Java, Spring Boot, Python, and FastAPI**, complemented by modern frontend development with **React**.
 
-- 🔭 Currently building: production-ready microservices & developer tooling
-- 🌱 Learning: distributed tracing, event-driven systems, and cloud-native patterns
-- 📫 Email: [santosha1404@gmail.com](mailto:santosha1404@gmail.com)
-- 🔗 LinkedIn: https://www.linkedin.com/in/santosha-c/
-- 📄 Resume: [Download PDF](https://github.com/SantoshaC1404/SantoshaC1404/blob/main/Santosha_C.pdf)
+I enjoy designing clean architectures, developing RESTful APIs, implementing authentication and authorization systems, and solving real-world engineering challenges.
+
+* 🔭 Building scalable backend systems and microservices
+* 🌱 Exploring distributed systems, cloud-native development, and event-driven architecture
+* 💡 Passionate about clean code, system design, and performance optimization
+* 🤝 Open to Full-Time, Internship, and Freelance opportunities
 
 ---
 
-## Core Competencies
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,mysql,mongodb,docker,git,github,postman,vscode" />
+
 </p>
 
 ---
 
-## Selected Projects
+# 💼 Featured Projects
 
-### IT Infrastructure Monitoring Dashboard
-- Tech: Python, FastAPI, React, Docker, MySQL
-- Overview: Real-time dashboard for infrastructure monitoring — metrics collection, alerting and trend visualization. Containerized for easy deployment.
-- Back-end: https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend
-- Front-end: https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend
+## 📊 IT Infrastructure Monitoring Dashboard
 
-### Smart Contact Manager (SCM)
-- Tech: Java, Spring Boot, React, MySQL
-- Overview: Secure full-stack contact management system with REST APIs, role-based auth, and a responsive frontend.
-- Back-end: https://github.com/SantoshaC1404/scm
-- Front-end: https://github.com/SantoshaC1404/scm_frontend
+**Tech Stack:** Python • FastAPI • React • Docker • MySQL
 
-### Real-Time Chat Application
-- Tech: Java, Spring Boot, WebSocket, MongoDB, React
-- Overview: Real-time messaging with persistent storage, user presence, and scalable WebSocket handling.
-- Repo: https://github.com/SantoshaC1404/chat-app
+Real-time infrastructure monitoring platform featuring live metrics, alert management, trend visualization, and containerized deployment for production-ready environments.
 
-### Authentication App
-- Tech: Java, Spring Boot, Spring Security, JWT, MySQL, React
-- Overview: Production-ready authentication & authorization service with JWT-based stateless sessions and best-practice security controls.
-- Repo: https://github.com/SantoshaC1404/auth-app
+* 🔹 Backend: https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend
+* 🔹 Frontend: https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend
 
 ---
 
-## How I Work / What I Offer
+## 📇 Smart Contact Manager
 
-- Strong backend architecture and API design (REST & WebSocket)
-- Container-based deployments (Docker) and basic CI/CD familiarity
-- Focus on test coverage, observability, and maintainability
-- Open to freelance or full-time opportunities (contract, remote, or onsite)
+**Tech Stack:** Java • Spring Boot • React • MySQL
+
+A secure full-stack contact management application featuring authentication, role-based authorization, REST APIs, and a responsive React interface for efficient contact organization.
+
+* 🔹 Backend: https://github.com/SantoshaC1404/scm
+* 🔹 Frontend: https://github.com/SantoshaC1404/scm_frontend
 
 ---
 
-## GitHub Activity
+## 💬 Real-Time Chat Application
+
+**Tech Stack:** Java • Spring Boot • WebSocket • MongoDB • React
+
+A scalable real-time messaging platform supporting instant communication, persistent message storage, user presence, and WebSocket-based live messaging.
+
+* 🔹 Repository: https://github.com/SantoshaC1404/chat-app
+
+---
+
+## 🔐 Secure Authentication App
+
+**Tech Stack:** Java • Spring Boot • Spring Security • JWT • React • MySQL
+
+Production-ready authentication and authorization system implementing JWT-based stateless security, role-based access control, encrypted password storage using BCrypt, and protected REST APIs with a modern React frontend.
+
+* 🔹 Repository: https://github.com/SantoshaC1404/auth-app
+
+---
+
+# 🎯 What I Bring
+
+* ✅ Scalable REST API Development
+* ✅ Microservices Architecture
+* ✅ Authentication & Authorization (JWT, Spring Security)
+* ✅ WebSocket Applications
+* ✅ Database Design (MySQL & MongoDB)
+* ✅ Docker & Containerization
+* ✅ Clean Architecture & SOLID Principles
+* ✅ Responsive React Applications
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantoshaC1404&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshaC1404&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshaC1404&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SantoshaC1404&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshaC1404&theme=react-dark"/>
 </p>
 
 ---
 
-## Get in Touch
+# 🤝 Let's Connect
 
-If you have an opportunity, collaboration idea, or feedback on my projects, feel free to reach out via email or LinkedIn. If you'd like, I can:
-- Add a short "How to run locally" section to any project
-- Add architecture diagrams or demos to project READMEs
-- Improve project READMEs with quickstart, API examples, and test instructions
+I'm always interested in collaborating on innovative software projects, contributing to open source, and exploring new backend technologies.
+
+📧 **Email:** <a href="mailto:santosha1404@gmail.com">[santosha1404@gmail.com](mailto:santosha1404@gmail.com)</a>
+
+💼 **LinkedIn:** https://www.linkedin.com/in/santosha-c/
+
+🌐 **GitHub:** https://github.com/SantoshaC1404
 
 ---
 
 <p align="center">
-  <em>"Code is poetry written in logic."</em>
+
+### ⭐ *"Building reliable software that solves real-world problems."*
+
 </p>
