@@ -88,7 +88,7 @@ Production-ready authentication and authorization system implementing JWT-based 
 * 🔹 Repository: https://github.com/SantoshaC1404/auth-app
 
 ---
-
+<!-- 
 # 🎯 What I Bring
 
 * ✅ Scalable REST API Development
@@ -99,6 +99,8 @@ Production-ready authentication and authorization system implementing JWT-based 
 * ✅ Docker & Containerization
 * ✅ Clean Architecture & SOLID Principles
 * ✅ Responsive React Applications
+
+-->
 
 ---
 
