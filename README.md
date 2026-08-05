@@ -102,6 +102,20 @@ Production-ready authentication and authorization system implementing JWT-based 
 
 ---
 
+# 🎯 Core Expertise
+
+* 🚀 **Backend Development** — Building scalable, secure, and high-performance applications using **Java, Spring Boot, Python, and FastAPI**.
+* 🏗️ **System Design & Architecture** — Designing clean, modular, and maintainable software following **SOLID principles** and industry best practices.
+* 🔐 **Authentication & Security** — Implementing **Spring Security**, **JWT authentication**, **Role-Based Access Control (RBAC)**, password encryption, and secure REST APIs.
+* 🌐 **RESTful APIs & Microservices** — Developing production-ready REST APIs, microservices, and WebSocket-based real-time applications.
+* 💻 **Full-Stack Development** — Building responsive, user-friendly interfaces with **React** and integrating them seamlessly with backend services.
+* 🗄️ **Database Design & Management** — Working with **MySQL** and **MongoDB** to create efficient, scalable, and reliable data models.
+* 🐳 **Containerization & Deployment** — Using **Docker** for containerized development and deployment, with familiarity in CI/CD workflows.
+* ⚡ **Performance & Code Quality** — Writing clean, maintainable, and well-tested code with a focus on performance optimization and long-term maintainability.
+* 🤝 **Collaboration & Problem Solving** — Strong analytical mindset with experience working on end-to-end projects, debugging complex issues, and delivering reliable software solutions.
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
