@@ -127,13 +127,13 @@ Production-ready authentication and authorization system implementing JWT-based 
   <img src="https://streak-stats.demolab.com/?user=SantoshaC1404&theme=radical"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SantoshaC1404&theme=radical&no-frame=true&margin-w=15"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshaC1404&theme=react-dark"/>
-</p>
+</p> -->
 
 ---
 
