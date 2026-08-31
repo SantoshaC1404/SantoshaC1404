@@ -58,6 +58,16 @@ Real-time infrastructure monitoring platform featuring live metrics, alert manag
 
 ---
 
+## 🚦 ATCS Installation & Deployment
+
+**Tech Stack:** Docker • Linux • Shell Scripting • Python • CI/CD
+
+End-to-end automated installation, configuration, and containerized deployment workflow for Adaptive Traffic Control Systems (ATCS), ensuring high reliability, monitoring, and environment consistency.
+
+* 🔹 Repository: https://github.com/SantoshaC1404/atcs-deployment
+
+---
+
 ## 📇 Smart Contact Manager
 
 **Tech Stack:** Java • Spring Boot • React • MySQL
