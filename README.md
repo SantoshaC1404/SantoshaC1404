@@ -53,8 +53,8 @@ I enjoy designing clean architectures, developing RESTful APIs, implementing aut
 
 Real-time infrastructure monitoring platform featuring live metrics, alert management, trend visualization, and containerized deployment for production-ready environments.
 
-* 🔹 Backend: https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend
-* 🔹 Frontend: https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend
+🔹 Backend: https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend
+🔹 Frontend: https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend
 
 ---
 
