@@ -35,6 +35,23 @@ I enjoy designing clean architectures, developing RESTful APIs, implementing aut
 
 ---
 
+# 💼 Professional Experience
+
+### Bharat Electronics Limited (BEL)
+
+**Trainee Engineer** | India
+
+Contributing to software development, system integration, testing, deployment, and troubleshooting of real-world engineering and infrastructure solutions.
+
+* 🔹 Developed and integrated software components for monitoring and control applications.
+* 🔹 Worked on system configuration, testing, deployment, and troubleshooting across development and on-site environments.
+* 🔹 Contributed to **Adaptive Traffic Control System (ATCS)** development, integration, testing, and deployment.
+* 🔹 Worked with **Docker, Linux, Python, Java, and backend technologies** for application deployment and system integration.
+* 🔹 Supported system validation, commissioning, maintenance, and resolution of deployment-related issues.
+
+---
+
+
 # 🛠️ Tech Stack
 
 <p align="center">
