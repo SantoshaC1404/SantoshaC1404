@@ -51,10 +51,14 @@ I enjoy designing clean architectures, developing RESTful APIs, implementing aut
 
 **Tech Stack:** Python • FastAPI • React • Docker • MySQL
 
-Real-time infrastructure monitoring platform featuring live metrics, alert management, trend visualization, and containerized deployment for production-ready environments.
+Developed an **IT infrastructure monitoring system** to monitor system health, resource utilization, and overall infrastructure performance through a centralized dashboard. The application provides real-time visibility into system metrics, performance trends, alerts, and operational status to support proactive monitoring and troubleshooting.
 
-🔹 Backend: https://github.com/SantoshaC1404/IT-Infrastructure-Monitoring-Dashboard-Backend
-🔹 Frontend: https://github.com/SantoshaC1404/it-infrastructure-monitoring-dashboard-frontend
+* Developed backend APIs using **Python and FastAPI** for collecting, processing, and serving infrastructure monitoring data.
+* Implemented monitoring of **CPU, memory, disk, system health, and other performance metrics** to track infrastructure status.
+* Built a responsive **React-based dashboard** for real-time visualization of system performance and monitoring data.
+* Implemented **alert and threshold-based monitoring** to identify potential performance issues and abnormal system conditions.
+* Containerized application components using **Docker** for consistent deployment and environment management.
+* Integrated **MySQL** for storing monitoring data and supporting historical performance analysis.
 
 ---
 
