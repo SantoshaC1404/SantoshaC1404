@@ -58,13 +58,16 @@ Real-time infrastructure monitoring platform featuring live metrics, alert manag
 
 ---
 
-## 🚦 ATCS Installation & Deployment
+## 🚦 Adaptive Traffic Control System (ATCS)
 
-**Tech Stack:** Docker • Linux • Shell Scripting • Python • CI/CD
+**Tech Stack:** Java • Python • Docker • Linux • Shell Scripting • CI/CD
 
-End-to-end automated installation, configuration, and containerized deployment workflow for Adaptive Traffic Control Systems (ATCS), ensuring high reliability, monitoring, and environment consistency.
+Worked on the **development, integration, testing, and deployment** of an Adaptive Traffic Control System (ATCS) for smart traffic management. Contributed to system configuration, application integration, containerized deployment, and on-site implementation to ensure reliable and consistent operation across traffic junctions.
 
-* 🔹 Repository: https://github.com/SantoshaC1404/atcs-deployment
+* 🔹 Contributed to the development and integration of ATCS software components and system modules.
+* 🔹 Supported automated installation, configuration, and containerized deployment using Docker and Linux.
+* 🔹 Performed system testing, troubleshooting, validation, and deployment across on-site traffic junctions.
+* 🔹 Assisted in maintaining deployment consistency and resolving issues during system integration and commissioning.
 
 ---
 
