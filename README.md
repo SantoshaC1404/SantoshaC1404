@@ -121,15 +121,16 @@ Production-ready authentication and authorization system implementing JWT-based 
 
 # 🎯 Core Expertise
 
-* 🚀 **Backend Development**
-* 🏗️ **System Design & Architecture** 
-* 🔐 **Authentication & Security**
-* 🌐 **RESTful APIs & Microservices** 
-* 💻 **Full-Stack Development**
-* 🗄️ **Database Design & Management**
-* 🐳 **Containerization & Deployment** 
-* ⚡ **Performance & Code Quality** 
-* 🤝 **Collaboration & Problem Solving** 
+* ☕ **Java & Spring Boot Development**
+* 🐍 **Python & FastAPI Development**
+* 🚀 **Backend & REST API Development**
+* 🏗️ **System Design & Application Architecture**
+* 🔐 **Authentication, Authorization & Application Security**
+* ⚛️ **React & Full-Stack Development**
+* 🗄️ **MySQL & MongoDB Database Design**
+* 🐳 **Docker, Linux & Application Deployment**
+* 🔄 **System Integration, Testing & Troubleshooting**
+* ⚡ **Performance, Reliability & Clean Code**
 
 ---
 
