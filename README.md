@@ -123,8 +123,8 @@ Production-ready authentication and authorization system implementing JWT-based 
 
 ☕ **Java & Spring Boot Development**
 🐍 **Python & FastAPI Development**
-* 🚀 **Backend & REST API Development**
-* 🏗️ **System Design & Application Architecture**
+🚀 **Backend & REST API Development**
+🏗️ **System Design & Application Architecture**
 * 🔐 **Authentication, Authorization & Application Security**
 * ⚛️ **React & Full-Stack Development**
 * 🗄️ **MySQL & MongoDB Database Design**
