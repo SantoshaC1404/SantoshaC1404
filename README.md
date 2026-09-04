@@ -92,13 +92,13 @@ Worked on the **development, integration, testing, and deployment** of an Adapti
 
 ---
 
-## 💬 Real-Time Chat Application
+<!-- ## 💬 Real-Time Chat Application
 
 **Tech Stack:** Java • Spring Boot • WebSocket • MongoDB • React
 
 A scalable real-time messaging platform supporting instant communication, persistent message storage, user presence, and WebSocket-based live messaging.
 
-* 🔹 Repository: https://github.com/SantoshaC1404/chat-app
+* 🔹 Repository: https://github.com/SantoshaC1404/chat-app -->
 
 ---
 
