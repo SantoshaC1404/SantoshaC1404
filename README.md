@@ -92,17 +92,6 @@ Worked on the **development, integration, testing, and deployment** of an Adapti
 
 ---
 
-## 📇 Smart Contact Manager
-
-**Tech Stack:** Java • Spring Boot • React • MySQL
-
-A secure full-stack contact management application featuring authentication, role-based authorization, REST APIs, and a responsive React interface for efficient contact organization.
-
-* 🔹 Backend: https://github.com/SantoshaC1404/scm
-* 🔹 Frontend: https://github.com/SantoshaC1404/scm_frontend
-
----
-
 ## 💬 Real-Time Chat Application
 
 **Tech Stack:** Java • Spring Boot • WebSocket • MongoDB • React
