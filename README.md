@@ -56,7 +56,7 @@ Contributing to software development, system integration, testing, deployment, a
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,mysql,mongodb,docker,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,mysql,postgresql,mongodb,docker,git,github,postman,vscode" />
 
 </p>
 
